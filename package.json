@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "morgan": "^1.10.0"
+  },
+  "name": "sgacfi-mern",
+  "description": "Aquí irá todo lo relacionado al proyecto basado en MERN",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iserlatam/SGACFI-MERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iserlatam/SGACFI-MERN/issues"
+  },
+  "homepage": "https://github.com/iserlatam/SGACFI-MERN#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
